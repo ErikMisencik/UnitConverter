@@ -1,0 +1,6 @@
+Simple App using Kotlin and Jetpack Compose UI. For learning and training purpose.
+
+## Features
+- Simple UI
+- UnitConversion of Millimeters, Centimeter, Meter, Kilometer, Feet.
+
